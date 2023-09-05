@@ -1,0 +1,26 @@
+img{
+    width: 250px;
+    height: 100px;
+}
+
+#googlediv{
+    background-color: ghostwhite;
+}
+
+#ytdiv{
+    background-color: crimson;
+}
+
+#fbdiv{
+    background-color: #1877f2;
+}
+
+#igdiv{
+    background-color: #8134af;
+}
+
+#xdiv{
+    background-color: black;
+    color: white;
+}
+
